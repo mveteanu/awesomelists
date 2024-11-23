@@ -1,12 +1,12 @@
 # Programming languages
 
-- [Dart programming language](https://dart.dev) | Dart
+- [Dart programming language](https://dart.dev)
 - [Swift - Apple Developer](https://developer.apple.com/swift/)
 - [The Go Programming Language](https://go.dev/)
 - [Rust Programming Language](https://www.rust-lang.org/)
 - [The Zig Programming Language](https://ziglang.org/)
 - [Nim Programming Language](https://nim-lang.org/)
-- [Free Pascal - Advanced open source Pascal compiler for Pascal and Object Pascal](https://www.freepascal.org/) - Home Page
+- [Free Pascal - Advanced open source Pascal compiler for Pascal and Object Pascal](https://www.freepascal.org/) 
 - [FreeBASIC Language | Home](https://www.freebasic.net/)
 - [Home - D Programming Language](https://dlang.org/)
 - [The Crystal Programming Language](https://crystal-lang.org/)
